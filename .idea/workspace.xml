@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7534f944-a288-476b-b453-2a6e6c6e3007" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../air_bot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/accounts.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/session_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/session_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/web/interact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/web/interact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/web/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/web/scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/client/web/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/client/web/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/db/air_db.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/db/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/db/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/entities/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/entities/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/entities/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/entities/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/proxies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/res/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/res/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/res/proxy_auth_plugin.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/res/proxy_auth_plugin.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/setup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/setup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air_bot/ui/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../air_bot/ui/gui.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/jit-web-crawler/core/abstract.py" beforeDir="false" afterPath="$USER_HOME$/Documents/jit-web-crawler/core/abstract.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/jit-web-crawler/core/io.py" beforeDir="false" afterPath="$USER_HOME$/Documents/jit-web-crawler/core/io.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/jit-web-crawler/core/util.py" beforeDir="false" afterPath="$USER_HOME$/Documents/jit-web-crawler/core/util.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/jit-web-crawler/res/webdriver/windows/chromedriver.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/jit-web-crawler" />
+  </component>
+  <component name="ProjectId" id="1dxvgQNSzoi5RpVa6LeFpH6XfJb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backup" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ross\Desktop\Master\Python\manualslib\backup" />
+      <recent name="C:\Users\Ross\Desktop\Master\Python\manualslib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.format_convert">
+    <configuration name="format_convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="manualslib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/format_convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="manualslib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.format_convert" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7534f944-a288-476b-b453-2a6e6c6e3007" name="Default Changelist" comment="" />
+      <created>1593379669999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593379669999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596706147100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596706147100" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593386557789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593386557789" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1596789285944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596789285944" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596717348142" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1596789285944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596789285944" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596717348142" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1596789285944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596789285944" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596717348142" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1596789285944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596789285944" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596717348142" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1596787257503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596787257503" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596794841531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596794841531" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1593386603993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593386603993" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593384473471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593384473471" />
+  </component>
+</project>
